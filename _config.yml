@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Spaso's Gelov Portfolio
+title: Spaso's Gelov PMP B.Eng (Mech.)
 
 # Your name to show in the footer
 author: Spaso Gelov
@@ -15,7 +15,7 @@ author: Spaso Gelov
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Projects:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
@@ -47,7 +47,7 @@ social-network-links:
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: linkedin
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "spasogelov.github.io"
+#url-pretty: "spasogelov.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -99,8 +99,8 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#2A9D8F"
+navbar-text-col: "#264653"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
@@ -118,7 +118,7 @@ footer-link-col: "#404040"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
